@@ -1,0 +1,7 @@
+name: gamemode
+main: me.username2020.gamemode.MainClass
+version: 1.0
+commands:
+  gmc:
+    description: gamemode 1
+    usage: /<command>
